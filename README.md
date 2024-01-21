@@ -7,7 +7,7 @@
 
 ## Clone this repo to your local machine by:
 **Git CLI**<br>
-_To Install Git CLI_
+_To Install Git CLI_ <br>
 +[Git CLI Download](https://git-scm.com/downloads) <br>
 _Then_ <br>
 +Run `git clone https://github.com/capybara-brain346/DYPCOE-AIML.git` in your terminal <br>
