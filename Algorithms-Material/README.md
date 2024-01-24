@@ -1,4 +1,4 @@
-# Steps to learn algorithms
+# Steps to learn algorithms ⚙️
 
 ## Learn the basics
 
