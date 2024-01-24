@@ -7,6 +7,7 @@
 1. Graphs/plots; why the graphs are how they are, significance and be curious and hypothesise what will happen with different different datasets
 1. How it learns
 1. What are its weights and baises
+2. How its is affected by imabalanced and skewed datasets and how the algorithm handles outliers
 
 ## Implementation
 1. Load a toy dataset from `sklearn.datasets` 
