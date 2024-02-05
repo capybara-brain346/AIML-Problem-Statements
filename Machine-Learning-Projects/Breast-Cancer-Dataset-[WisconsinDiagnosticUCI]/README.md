@@ -17,6 +17,6 @@ This repository contains the code and documentation for a machine learning class
 
 <h2>Models Used</h2>
 
-1. Logistic Regression
-1. Random Forest Classifier
-1. XGBoost Classifier
+1. Logistic Regression -> 0.8991 acc
+1. Random Forest Classifier -> 0.9342 acc
+1. XGBoost Classifier -> 0.9386 acc
